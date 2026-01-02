@@ -1,3 +1,4 @@
 app:
 - name: svc1
 - name: svc2
+- name: svc3
